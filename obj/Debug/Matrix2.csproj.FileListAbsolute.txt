@@ -1,0 +1,11 @@
+C:\blog.code\Matices (part 2)\C#\Matrix2\bin\Debug\Matrix2.exe.config
+C:\blog.code\Matices (part 2)\C#\Matrix2\bin\Debug\Matrix2.exe
+C:\blog.code\Matices (part 2)\C#\Matrix2\bin\Debug\Matrix2.pdb
+C:\blog.code\Matices (part 2)\C#\Matrix2\bin\Debug\nunit.framework.dll
+C:\blog.code\Matices (part 2)\C#\Matrix2\bin\Debug\TechTalk.SpecFlow.dll
+C:\blog.code\Matices (part 2)\C#\Matrix2\bin\Debug\nunit.framework.xml
+C:\blog.code\Matices (part 2)\C#\Matrix2\obj\Debug\Matrix2.exe
+C:\blog.code\Matices (part 2)\C#\Matrix2\obj\Debug\Matrix2.pdb
+C:\blog.code\Matices (part 2)\C#\Matrix2\bin\Debug\Newtonsoft.Json.dll
+C:\blog.code\Matices (part 2)\C#\Matrix2\bin\Debug\Newtonsoft.Json.xml
+C:\blog.code\Matices (part 2)\C#\Matrix2\obj\Debug\Matrix2.csprojResolveAssemblyReference.cache
