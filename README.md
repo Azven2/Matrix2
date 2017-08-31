@@ -1,6 +1,6 @@
-#Matrices 2
+# Matrices 2
 
-##Complex Matrices
+## Complex Matrices
   
 _This is a project including a Matrix extension class for Complex Matrices (2D arrays of System.Numerics.Complex types). It also includes gherkin feature file tests (NUnit test runner) with significant code coverage. The program is just a demo. Extract the extension classes into your project to use the matrix tools._   
 
