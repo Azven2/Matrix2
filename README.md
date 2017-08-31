@@ -37,6 +37,6 @@ Recognise a triangular matrix
 
 //// Example:   
 //// The inverse matrix, v, of Z is calculated like this   
-var v = Z.InverseMatrix()   
+var v = Z.Inverse()   
 
-(C) Steven Digby, 30 August 2017  
+(C) Steven Digby, 30 August 2017
