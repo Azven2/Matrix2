@@ -30,9 +30,9 @@ _Then you can perform sophisticated matrix operations._
 - Calculate an Inverse matrix   
 - Calculate a Conjugate matrix   
 - Calculate an adjunct matrix      
-- Calculate a complaex trace value   
-- Calculate the Eigen vectors of a 2x2 matrix  
-- Calculate the Eigen values of a 2x2 matrix  
+- Calculate a complex trace value   
+- Calculate the eigenvectors of a 2x2 matrix  
+- Calculate the eigenvalues of a 2x2 matrix  
 - Recognise an involution matrix    
 - Recognise a nilpotent matrix   
 - Recognise a triangular matrix
